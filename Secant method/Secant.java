@@ -6,15 +6,15 @@
 
 
 /*
-	* This solution was written for
-	* the following equation
-	* f(x) = x^3 - 0.165x^2 + 3.993 * 10^-4
-        
-        You need an absolute relative approximate error of 5% or less.
+    * This solution was written for
+    * the following equation
+    * f(x) = x^3 - 0.165x^2 + 3.993 * 10^-4
 
-        sample imput: 
-        x_1 = 0.02 
-        x0 = 0.05
+    You need an absolute relative approximate error of 5% or less.
+
+    sample imput: 
+    x_1 = 0.02 
+    x0 = 0.05
 */
 
 
