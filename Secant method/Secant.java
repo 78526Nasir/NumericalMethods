@@ -15,6 +15,15 @@
     sample imput: 
     x_1 = 0.02 
     x0 = 0.05
+
+    sample output:
+    Iteration : 1
+    Root:0.06461437908496731
+    Error:22.61784341493019
+    Iteration : 2
+    Root:0.06241444855629439
+    Error:3.5247135552094235
+
 */
 
 
