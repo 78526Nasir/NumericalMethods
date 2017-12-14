@@ -13,6 +13,18 @@
 
     sample input:
     x0=0.05
+
+    samout output:
+    Enter value for x0 : 0.05
+    Iteration : 1
+    Root:0.06242222222222221
+    Error:19.90032039871839
+    Iteration : 2
+    Root:0.062377576543465846
+    Error:0.07157328198740867
+    Iteration : 3
+    Root:0.06237758151374945
+    Error:7.96806076917568E-6
         
 */
 
